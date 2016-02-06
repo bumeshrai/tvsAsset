@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CMRL</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="stscan">Starting Scan..</string>
+    <string name="goback">Go Back</string>
+    <string name="Assetcode">Asset Code</string>
+    <string name="proceed">Proceed</string>
+    <string name="fetch">Fetch Data</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_qrcode">QRCODE</string>
+    <string name="name">Fullname</string>
+    <string name="btn_pending">Pending</string>
+    <string name="btn_link_host">Set Host</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_qr">QRActivity</string>
+    <string name="title_activity_equipment">EquipmentActivity</string>
+    <string name="sync_account_type">administrator.example.com</string>
+    <string name="content_authority">com.example.android.administrator.cmrl</string>
+    <string name="default_host">192.168.202.43</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pending">PendingActivity</string>
+    <string name="title_activity_check_task">CheckTaskActivity</string>
+</resources>

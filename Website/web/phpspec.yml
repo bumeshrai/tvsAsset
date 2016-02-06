@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: CMRL
+        psr4_prefix: CMRL
+        src_path: app
